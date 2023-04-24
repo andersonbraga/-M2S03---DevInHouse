@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S03]--DevInHouse.Ex1", "[M2S03]--DevInHouse.Ex1\[M2S03]--DevInHouse.Ex1.csproj", "{F5DE348B-9825-4D06-B615-FC0AE34962DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[M2S03]--DevInHouse.Ex1", "[M2S03]--DevInHouse.Ex1\[M2S03]--DevInHouse.Ex1.csproj", "{F5DE348B-9825-4D06-B615-FC0AE34962DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S03]--DevInHouse.Ex2", "[M2S03]--DevInHouse.Ex2\[M2S03]--DevInHouse.Ex2.csproj", "{34240809-3AF4-45A0-B138-D641E9E07446}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[M2S03]--DevInHouse.Ex2", "[M2S03]--DevInHouse.Ex2\[M2S03]--DevInHouse.Ex2.csproj", "{34240809-3AF4-45A0-B138-D641E9E07446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S03]--DevInHouse.Ex3", "[M2S03]--DevInHouse.Ex3\[M2S03]--DevInHouse.Ex3.csproj", "{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{34240809-3AF4-45A0-B138-D641E9E07446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34240809-3AF4-45A0-B138-D641E9E07446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34240809-3AF4-45A0-B138-D641E9E07446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
