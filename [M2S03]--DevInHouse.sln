@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[M2S03]--DevInHouse.Ex2", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S03]--DevInHouse.Ex3-A-Ex10", "[M2S03]--DevInHouse.Ex3\[M2S03]--DevInHouse.Ex3-A-Ex10.csproj", "{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S03]--DevInHouse.Ex5", "[M2S03]--DevInHouse.Ex5\[M2S03]--DevInHouse.Ex5.csproj", "{D6B1C317-B0EB-4E23-8D7E-DC704ABE890F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B1C317-B0EB-4E23-8D7E-DC704ABE890F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B1C317-B0EB-4E23-8D7E-DC704ABE890F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B1C317-B0EB-4E23-8D7E-DC704ABE890F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B1C317-B0EB-4E23-8D7E-DC704ABE890F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
