@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[M2S03]--DevInHouse.Ex1", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[M2S03]--DevInHouse.Ex2", "[M2S03]--DevInHouse.Ex2\[M2S03]--DevInHouse.Ex2.csproj", "{34240809-3AF4-45A0-B138-D641E9E07446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S03]--DevInHouse.Ex3", "[M2S03]--DevInHouse.Ex3\[M2S03]--DevInHouse.Ex3.csproj", "{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S03]--DevInHouse.Ex3-A-Ex10", "[M2S03]--DevInHouse.Ex3\[M2S03]--DevInHouse.Ex3-A-Ex10.csproj", "{11F2D572-ED7B-478F-BB81-D1D114E7F7A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
